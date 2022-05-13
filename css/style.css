@@ -6,11 +6,14 @@
     
   }
 body {
-  background-color:#66ccff;
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
   color: white;
   font-family: "Poppins", sans-serif;
 }
+progress #skills{
 
+  color:red !important;
+}
 header a {
   text-decoration: none;
 }
